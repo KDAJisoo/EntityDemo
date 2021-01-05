@@ -1,0 +1,12 @@
+C:\Users\84988\source\repos\Demo\Demo.data\bin\Debug\netstandard2.0\Demo.data.deps.json
+C:\Users\84988\source\repos\Demo\Demo.data\bin\Debug\netstandard2.0\Demo.data.dll
+C:\Users\84988\source\repos\Demo\Demo.data\bin\Debug\netstandard2.0\Demo.data.pdb
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.csprojAssemblyReference.cache
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.AssemblyInfoInputs.cache
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.AssemblyInfo.cs
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.csproj.CoreCompileInputs.cache
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.dll
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.pdb
+C:\Users\84988\source\repos\Demo\Demo.data\bin\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\84988\source\repos\Demo\Demo.data\bin\Debug\netstandard2.0\Demo.Common.pdb
+C:\Users\84988\source\repos\Demo\Demo.data\obj\Debug\netstandard2.0\Demo.data.csproj.CopyComplete

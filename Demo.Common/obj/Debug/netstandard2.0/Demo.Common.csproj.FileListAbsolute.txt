@@ -1,0 +1,8 @@
+C:\Users\84988\source\repos\Demo\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.deps.json
+C:\Users\84988\source\repos\Demo\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\84988\source\repos\Demo\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.pdb
+C:\Users\84988\source\repos\Demo\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfoInputs.cache
+C:\Users\84988\source\repos\Demo\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfo.cs
+C:\Users\84988\source\repos\Demo\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.csproj.CoreCompileInputs.cache
+C:\Users\84988\source\repos\Demo\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\84988\source\repos\Demo\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.pdb
